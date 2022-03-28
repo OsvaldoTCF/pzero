@@ -1,0 +1,4 @@
+Frameworks and Drivers
+The framework and driver are the outermost layers and are the most sensitive to the outside world.
+
+Provide wrappers and interfaces to avoid adverse effects so that external influences do not affect the inner layers.

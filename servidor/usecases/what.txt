@@ -1,0 +1,4 @@
+Use Cases
+Use cases define application-specific business rules.
+
+In other words, it has the logic of system behavior.

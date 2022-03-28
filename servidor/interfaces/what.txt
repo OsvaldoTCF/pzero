@@ -1,0 +1,4 @@
+Interface Adapters
+Interface adapters are layers for transforming data structures used in entities and use cases into easy-to-use formats for Frameworks and Drivers.
+
+Concepts such as Controllers, Gateways and Presenters are included in this layer.

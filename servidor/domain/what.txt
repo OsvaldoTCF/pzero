@@ -1,0 +1,6 @@
+Entities
+Entities encapsulate the most important business rules.
+
+Since it is the most core business logic, it is the part that is least likely to be influenced by the outside world.
+
+ex. Objects with methods, series of data structures and functions, etc.
